@@ -4,7 +4,7 @@ export const CONFIG = {
     API_KEY: 'AQ.Ab8RN6LnAlAbR7igBR1frhaDcTpy2j0UlOQULwzZFxG88vb0-w',
 
     // Model yang digunakan (gemini-pro atau gemini-1.5-pro)
-    MODEL: 'gemini-pro',
+    MODEL: 'gemini-2.5-flash',
 
     // Pengaturan keamanan – semua diset ke BLOCK_NONE agar "uncensored"
     SAFETY_SETTINGS: [
