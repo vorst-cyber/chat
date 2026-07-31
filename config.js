@@ -1,7 +1,7 @@
 // config.js
 export const CONFIG = {
     // Ganti dengan API Key Anda dari Google AI Studio
-    API_KEY: 'AQ.Ab8RN6LXQcK8zjK-N567jKy2Z9isvSRa6rbwqWLF2ksmbZgKbw',
+    API_KEY: 'AQ.Ab8RN6LnAlAbR7igBR1frhaDcTpy2j0UlOQULwzZFxG88vb0-w',
 
     // Model yang digunakan (gemini-pro atau gemini-1.5-pro)
     MODEL: 'gemini-pro',
