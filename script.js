@@ -102,7 +102,7 @@ function addMessage(role, content) {
 async function callGeminiAPI(prompt) {
     const { API_KEY, MODEL, SAFETY_SETTINGS, TEMPERATURE, MAX_TOKENS } = CONFIG;
 
-    if (!API_KEY || API_KEY === 'YOUR_GOOGLE_API_KEY_HERE') {
+    if (!API_KEY || API_KEY === 'AIzaSyDGkxmWKSCtlVXsA6zCn3NesadseBQoiGA') {
         throw new Error('API Key belum diatur. Edit config.js!');
     }
 
